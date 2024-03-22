@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Hello",
+			"path": "."
+		},
+		{
+			"name": "Hello",
+			"path": "../../HTML/Hello"
+		}
+	],
+	"settings": {}
+}
